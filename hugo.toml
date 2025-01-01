@@ -3,7 +3,7 @@ defaultContentLanguage = 'en'
 languageCode = 'en'
 
 
-title = 'Tanya Yarmola'
+title = 'Tetiana Yarmola'
 theme = 'gokarna'
 
 # Automatically generate robots.txt
@@ -51,10 +51,10 @@ enableRobotsTXT = true
   avatarURL = "/images/avatar_unicorn.png"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
-  avatarSize = "xs"
+  avatarSize = "size-xs"
 
   # Description to display on homepage
-  description = "Tech and Art"
+  description = "Passionate about Tech and Art"
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"
